@@ -49,7 +49,8 @@ Game-Recommender/
 ├── cli.py              # 🚀 Entry point (CLI app)
 ├── utils.py            # 🧠 Core logic & scoring system
 ├── requirements.txt    # 📦 Dependencies
-└── README.md           # 📄 Documentation
+├── README.md           # 📄 Documentation
+└── Project_Report.pdf  # 📄 Documentation
 ```
 
 ---
@@ -153,6 +154,3 @@ This project demonstrates how **basic AI/ML concepts** like scoring, classificat
 - 🧪 Input format should be reasonable (e.g., “16 GB”, “RTX 3060”)  
 
 ---
-
-## ⭐ If you like this project  
-Give it a ⭐ on GitHub — it helps!
