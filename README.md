@@ -1,4 +1,4 @@
-# 🎮 GameMatch AI — CLI Edition  
+# 🎮 GameMatch AI  
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)
 ![CLI](https://img.shields.io/badge/Interface-CLI-green)
